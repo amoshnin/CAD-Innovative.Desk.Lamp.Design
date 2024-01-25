@@ -13,8 +13,8 @@
 - List of Images of Ultimaker 3D Printing => [Link to Folder](https://github.com/amoshnin/CAD-Innovative.Desk.Lamp.Design/tree/master/Images%20-%20Ultimaker%203D%20Printing)
 - List of Images of Orthographic Drawings of Components => [Link to Folder](https://github.com/amoshnin/CAD-Innovative.Desk.Lamp.Design/tree/master/Images%20-%20Orthographic%20Drawings%20of%20Components)
 
-### Summary Information of Components
-### Orthographic Drawings of Components
-### Ultimaker 3D Printing
-### Detailed Components
-### Conceptual Models
+#### Summary Information of Components
+#### Orthographic Drawings of Components
+#### Ultimaker 3D Printing
+#### Detailed Components
+#### Conceptual Models
